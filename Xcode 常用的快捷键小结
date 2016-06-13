@@ -1,0 +1,61 @@
+IOS模拟器home键：Command + Shift +H
+
+构建应用程序：Command ＋ B
+
+运行app：Command ＋ R
+
+清理工程：Command ＋ Shift ＋ K
+
+打开Xcode首选项：Command ＋ ，
+
+文档与帮助：Command ＋ Shift ＋0（ZERO）
+
+快速帮助：在类或者方法名上执行Option ＋ Left－click操作
+
+在文档中搜索：Option ＋ 双击
+
+显示代码提示菜单：Esc
+
+注释或取消注释：Command ＋ ／
+
+创建文件：Command ＋ N
+
+文件中查找：Command ＋ F
+
+查找下一个：Command ＋ G
+
+查找上一个：Command ＋Shift ＋ G
+
+新建一个Xcode项目 Command + Shift + N 
+
+在Xcode中新建文件 Shift + N
+
+文件中替换：Command ＋ Option ＋ F
+
+移动光标至本行行首：Ctrl ＋ A
+
+移动光标至本行行尾：Ctrl ＋ E
+
+删除光标右边的一行：Ctrl ＋ K
+
+删除光标右边的一个字符：Ctrl ＋ D
+
+单步调试（step over）：F6
+
+单步进入（step into）：F7
+
+跳出函数（step out）：F8
+
+显示/隐藏导航器面板：Command ＋ 0
+
+显示/隐藏实用工具面板：Command ＋ Option ＋ 0
+
+搜索导航器(Find Navigator，也就是搜索：Command ＋ Shift ＋ F
+
+文件跳转栏：Control ＋ 6（键入方法/变量名 ＋ Enter跳转）
+
+快速打开：Command ＋ Shift ＋ O
+
+缩进/展开方法：Command ＋ Option ＋ Left-Arrow/Right-Arrow
+
+.h and .m文件间的快速切换：Command ＋ Ctrl ＋ Up-Arrow
